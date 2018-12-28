@@ -13,13 +13,3 @@ This application provide the basic functionality of searching videos from youtub
 ## Storyboard
 
 ![alt text](https://github.com/Valent1Poisson/YoutubeAPP/blob/master/storyboard.png)
-
-## Screens Shot
-
-![alt text](https://github.com/Valent1Poisson/YoutubeAPP/blob/master/home.png)
-
-
-![alt text](https://github.com/Valent1Poisson/YoutubeAPP/blob/master/research.png)
-
-
-![alt text](https://github.com/Valent1Poisson/YoutubeAPP/blob/master/video.png)
