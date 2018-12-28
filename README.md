@@ -19,8 +19,10 @@ This application provide the basic functionality of searching videos from youtub
 - Retrofit -
 It is a library which allow to make webservices call
 
-- Youtube Api -
+- Youtube Api
+
 It is the API which allow to fetch YouTube videos
 
-- API Key -
+- API Key
+
 It necessary to access to those videos
