@@ -12,6 +12,6 @@ This application provide the basic functionality of searching videos from youtub
 
 ## Screens Shot
 
-![alt text][]
+![alt text][https://github.com/Valent1Poisson/YoutubeAPP/blob/master/video.png]
 ![alt text][]
 ![alt text][]
