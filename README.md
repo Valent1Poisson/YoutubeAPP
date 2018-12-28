@@ -16,11 +16,11 @@ This application provide the basic functionality of searching videos from youtub
 
 ## Key Technologies
 
-####### 1. Retrofit
+- 1. Retrofit
 Library which allow to make webservices call
 
-####### 2. Youtube Api
+- 2. Youtube Api
 It is the API which allow to fetch YouTube videos
 
-####### 3. API Key
+- 3. API Key
 Necessary to access to those videos
